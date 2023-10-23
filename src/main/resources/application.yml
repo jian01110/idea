@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /boot
+  port: 8081
+spring:
+  profiles:
+    active: dev..
