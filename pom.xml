@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.software</groupId>
-    <artifactId>springboot</artifactId>
+    <artifactId>springboots</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot</name>
     <description>springboot</description>
