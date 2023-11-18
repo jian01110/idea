@@ -10,6 +10,8 @@ import org.springframework.web.filter.CorsFilter;
  * @Author hugx
  * @Date 2020-5-27 11:45
  * @Content 解决前后端分离跨域问题
+ * 跨域是是因为浏览器的同源策略限制，是浏览器的一种安全机制，服务端之间是不存在跨域的。
+ * 所谓同源指的是两个页面具有相同的协议、主机和端口，三者有任一不相同即会产生跨域。
  */
 @Configuration
 public class CorsConfig {
